@@ -15,7 +15,7 @@
 
 |      서채연       |          남궁찬         |       유민진         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://github.com/Draw-Draw/.github/assets/94633589/503d8975-fa59-460d-bafd-37a8c0830aff" > |             <img width="160px" src="https://github.com/Draw-Draw/.github/assets/94633589/77e4e5f3-0f49-4764-ae29-baacabc03c5d" >    |                 <img width="160px" src="https://github.com/Draw-Draw/.github/assets/94633589/84cf3874-0928-462f-ab06-b04ec40ceb9b" >   |
+| <a href="https://github.com/seocylucky"> <img width="160px" src="https://github.com/Draw-Draw/.github/assets/94633589/503d8975-fa59-460d-bafd-37a8c0830aff" > </a> | <a href="https://github.com/Chan531"> <img width="160px" src="https://github.com/Draw-Draw/.github/assets/94633589/77e4e5f3-0f49-4764-ae29-baacabc03c5d" > </a>   | <img width="160px" src="https://github.com/Draw-Draw/.github/assets/94633589/84cf3874-0928-462f-ab06-b04ec40ceb9b" >   |
 | Leader, Front-End | Back-End | Design |
 
 ## 프로젝트 소개
