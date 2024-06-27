@@ -25,11 +25,7 @@
 
 ---
 
-## Stacks 🐈
-
-### Environment
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)        
+## Stacks 🐈       
 
 ### Package
 <img src="https://img.shields.io/badge/Yarn-241D53?style=flat-square&logo=Yarn&logoColor=white"> 
