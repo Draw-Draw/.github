@@ -43,7 +43,7 @@ Front-end
 <br>
 Back-end
 <br>
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+추가 예정!
 
 ### Communication
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
